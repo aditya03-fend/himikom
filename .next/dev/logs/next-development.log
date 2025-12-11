@@ -1,0 +1,235 @@
+[00:00:04.350] Server  LOG      ✓ Ready in 3.4s
+[00:00:12.918] Server  LOG      ○ Compiling / ...
+[00:00:23.815] Server  ERROR   D:\himikom-project\himikom\frontend\.next\dev\server\chunks\ssr\[root-of-the-server]__4ad9cb73._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:00:23.820] Server  ERROR   Gagal mengambil data home: TypeError: fetch failed
+[00:00:24.905] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:25.184] Browser WARN    Invalid scope
+[00:00:25.184] Browser WARN    Invalid scope
+[00:00:25.184] Browser WARN    Invalid scope
+[00:00:25.188] Browser WARN    Invalid scope
+[00:00:25.189] Browser WARN    Invalid scope
+[00:00:25.189] Browser WARN    Invalid scope
+[00:00:25.189] Browser WARN    Invalid scope
+[00:00:25.189] Browser WARN    Invalid scope
+[00:00:25.189] Browser WARN    Invalid scope
+[00:00:25.193] Browser WARN    Invalid scope
+[00:00:25.193] Browser WARN    Invalid scope
+[00:00:25.194] Browser WARN    Invalid scope
+[00:00:25.194] Browser WARN    Invalid scope
+[00:00:25.194] Browser WARN    Invalid scope
+[00:00:25.194] Browser WARN    Invalid scope
+[00:00:25.194] Browser WARN    Invalid scope
+[00:00:25.194] Browser WARN    Invalid scope
+[00:00:25.194] Browser WARN    Invalid scope
+[00:00:25.194] Browser WARN    Invalid scope
+[00:00:25.194] Browser WARN    Invalid scope
+[00:00:25.194] Browser WARN    Invalid scope
+[00:00:25.194] Browser WARN    Invalid scope
+[00:00:25.194] Browser WARN    Invalid scope
+[00:00:25.194] Browser WARN    Invalid scope
+[00:00:25.194] Browser WARN    Invalid scope
+[00:00:25.194] Browser WARN    GSAP target .bg-grid not found. https://gsap.com
+[00:00:27.246] Browser WARN    Invalid scope
+[00:00:27.254] Browser WARN    Invalid scope
+[00:02:44.697] Server  ERROR   D:\himikom-project\himikom\frontend\.next\dev\server\chunks\ssr\[root-of-the-server]__4ad9cb73._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:02:44.700] Server  ERROR   Gagal mengambil data home: TypeError: fetch failed
+[00:02:45.119] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:02:45.283] Browser WARN    Invalid scope
+[00:02:45.283] Browser WARN    Invalid scope
+[00:02:45.283] Browser WARN    Invalid scope
+[00:02:45.283] Browser WARN    Invalid scope
+[00:02:45.283] Browser WARN    Invalid scope
+[00:02:45.283] Browser WARN    Invalid scope
+[00:02:45.283] Browser WARN    Invalid scope
+[00:02:45.283] Browser WARN    Invalid scope
+[00:02:45.283] Browser WARN    Invalid scope
+[00:02:45.283] Browser WARN    Invalid scope
+[00:02:45.283] Browser WARN    Invalid scope
+[00:02:45.283] Browser WARN    Invalid scope
+[00:02:45.283] Browser WARN    Invalid scope
+[00:02:45.283] Browser WARN    Invalid scope
+[00:02:45.283] Browser WARN    Invalid scope
+[00:02:45.283] Browser WARN    Invalid scope
+[00:02:45.283] Browser WARN    Invalid scope
+[00:02:45.283] Browser WARN    Invalid scope
+[00:02:45.283] Browser WARN    Invalid scope
+[00:02:45.283] Browser WARN    Invalid scope
+[00:02:45.283] Browser WARN    Invalid scope
+[00:02:45.283] Browser WARN    Invalid scope
+[00:02:45.283] Browser WARN    Invalid scope
+[00:02:45.283] Browser WARN    Invalid scope
+[00:02:45.283] Browser WARN    Invalid scope
+[00:02:45.283] Browser WARN    GSAP target .bg-grid not found. https://gsap.com
+[00:04:21.520] Server  LOG      ✓ Compiled in 201ms
+[00:04:31.112] Browser WARN    Invalid scope
+[00:04:31.112] Browser WARN    Invalid scope
+[00:04:31.112] Browser WARN    Invalid scope
+[00:04:31.112] Browser WARN    Invalid scope
+[00:04:31.112] Browser WARN    Invalid scope
+[00:04:31.112] Browser WARN    Invalid scope
+[00:04:31.112] Browser WARN    Invalid scope
+[00:04:31.112] Browser WARN    Invalid scope
+[00:04:31.112] Browser WARN    Invalid scope
+[00:04:31.112] Browser WARN    Invalid scope
+[00:04:31.112] Browser WARN    Invalid scope
+[00:04:31.112] Browser WARN    Invalid scope
+[00:04:31.112] Browser WARN    Invalid scope
+[00:04:31.112] Browser WARN    Invalid scope
+[00:04:31.112] Browser WARN    Invalid scope
+[00:04:31.112] Browser WARN    Invalid scope
+[00:04:31.112] Browser WARN    Invalid scope
+[00:04:31.112] Browser WARN    Invalid scope
+[00:04:31.112] Browser WARN    Invalid scope
+[00:04:31.113] Browser WARN    Invalid scope
+[00:04:31.113] Browser WARN    Invalid scope
+[00:04:31.113] Browser WARN    Invalid scope
+[00:04:31.113] Browser WARN    Invalid scope
+[00:04:31.113] Browser WARN    Invalid scope
+[00:04:31.113] Browser WARN    Invalid scope
+[00:04:31.113] Browser WARN    Invalid scope
+[00:04:31.113] Browser WARN    Invalid scope
+[00:04:31.113] Browser WARN    Invalid scope
+[00:04:31.113] Browser WARN    Invalid scope
+[00:04:31.113] Browser WARN    Invalid scope
+[00:04:31.113] Browser WARN    Invalid scope
+[00:04:31.113] Browser WARN    Invalid scope
+[00:04:31.113] Browser WARN    Invalid scope
+[00:04:31.113] Browser WARN    Invalid scope
+[00:04:31.113] Browser WARN    Invalid scope
+[00:04:31.113] Browser WARN    Invalid scope
+[00:04:31.113] Browser WARN    Invalid scope
+[00:04:31.113] Browser WARN    Invalid scope
+[00:04:31.113] Browser WARN    Invalid scope
+[00:04:31.113] Browser WARN    Invalid scope
+[00:04:31.113] Browser WARN    Invalid scope
+[00:04:31.113] Browser WARN    Invalid scope
+[00:04:31.113] Browser WARN    Invalid scope
+[00:04:31.113] Browser WARN    Invalid scope
+[00:04:31.113] Browser WARN    Invalid scope
+[00:04:31.113] Browser WARN    Invalid scope
+[00:04:31.114] Browser WARN    Invalid scope
+[00:04:31.114] Browser WARN    Invalid scope
+[00:04:31.114] Browser WARN    Invalid scope
+[00:04:31.114] Browser WARN    Invalid scope
+[00:04:37.276] Server  ERROR   D:\himikom-project\himikom\frontend\.next\dev\server\chunks\ssr\[root-of-the-server]__abef60ce._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:04:37.282] Server  ERROR    ⨯ TypeError: fetch failed
+[00:04:37.619] Browser ERROR   uncaughtError: TypeError: fetch failed
+[00:04:55.431] Server  LOG      ✓ Compiled in 64ms
+[00:04:58.427] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:04:59.395] Browser ERROR   A tree hydrated but some attributes of the server rendered HTML didn't match the client properties. This won't be patched up. This can happen if a SSR-ed Client Component used:
+
+- A server/client branch `if (typeof window !== 'undefined')`.
+- Variable input such as `Date.now()` or `Math.random()` which changes each time it's called.
+- Date formatting in a user's locale which doesn't match the server.
+- External changing data without sending a snapshot of it along with the HTML.
+- Invalid HTML tag nesting.
+
+It can also happen if the client has a browser extension installed which messes with the HTML before React loaded.
+
+%s%s https://react.dev/link/hydration-mismatch 
+
+  ...
+    <LoadingBoundary name="article/" loading={null}>
+      <HTTPAccessFallbackBoundary notFound={undefined} forbidden={undefined} unauthorized={undefined}>
+        <RedirectBoundary>
+          <RedirectErrorBoundary router={{...}}>
+            <InnerLayoutRouter url="/article" tree={[...]} params={{}} cacheNode={{lazyData:null, ...}} ...>
+              <SegmentViewNode type="page" pagePath="article/pa...">
+                <SegmentTrieNode>
+                <ArticlePage>
+                  <main className="bg-black m...">
+                    <Navbar>
+                    <div className="relative z...">
+                      <div>
+                      <ArticleHeader>
+                        <section ref={{current:null}} className="relative p...">
+                          <div>
+                          <div className="max-w-7xl ...">
+                            <h1>
+                            <div className="flex flex-...">
+                              <p>
+                              <div className="w-full md:...">
+                                <input
+                                  type="text"
+                                  placeholder="Cari artikel atau program..."
+                                  className="w-full md:w-96 bg-zinc-900/50 border border-white/10 rounded-full py-4 pl..."
+-                                 fdprocessedid="oh8et"
+                                >
+                                ...
+                          ...
+                      ...
+                    <div className="fixed bott...">
+                      <Footer>
+                        <div ref={{current:null}} className="relative h..." style={{clipPath:"..."}}>
+                          <div className="flex flex-...">
+                            <div>
+                            <div className="grid grid-...">
+                              <div>
+                              <div>
+                              <div className="flex flex-...">
+                                <button
+                                  onClick={function scrollToTop}
+                                  className="group flex items-center gap-2 text-sm font-bold uppercase tracking-widest..."
+-                                 fdprocessedid="e2lbdg"
+                                >
+                          ...
+              ...
+            ...
+
+[00:04:59.395] Browser WARN    Invalid scope
+[00:04:59.395] Browser WARN    Invalid scope
+[00:04:59.395] Browser WARN    Invalid scope
+[00:04:59.395] Browser WARN    Invalid scope
+[00:04:59.395] Browser WARN    Invalid scope
+[00:04:59.395] Browser WARN    Invalid scope
+[00:04:59.395] Browser WARN    Invalid scope
+[00:04:59.395] Browser WARN    Invalid scope
+[00:04:59.395] Browser WARN    Invalid scope
+[00:04:59.395] Browser WARN    Invalid scope
+[00:04:59.395] Browser WARN    Invalid scope
+[00:04:59.395] Browser WARN    Invalid scope
+[00:04:59.396] Browser WARN    Invalid scope
+[00:04:59.396] Browser WARN    Invalid scope
+[00:04:59.396] Browser WARN    Invalid scope
+[00:04:59.396] Browser WARN    Invalid scope
+[00:04:59.396] Browser WARN    Invalid scope
+[00:04:59.396] Browser WARN    Invalid scope
+[00:04:59.396] Browser WARN    Invalid scope
+[00:04:59.396] Browser WARN    Invalid scope
+[00:04:59.396] Browser WARN    Invalid scope
+[00:04:59.396] Browser WARN    Invalid scope
+[00:04:59.396] Browser WARN    Invalid scope
+[00:04:59.396] Browser WARN    Invalid scope
+[00:04:59.396] Browser WARN    Invalid scope
+[00:09:32.924] Browser WARN    Invalid scope
+[00:09:32.925] Browser WARN    Invalid scope
+[00:12:43.318] Server  LOG      ○ Compiling /admin/login ...
+[00:12:48.510] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:18:33.726] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:19:10.018] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:19:10.233] Browser WARN    Invalid scope
+[00:19:10.233] Browser WARN    Invalid scope
+[00:19:10.233] Browser WARN    Invalid scope
+[00:19:10.234] Browser WARN    Invalid scope
+[00:19:10.234] Browser WARN    Invalid scope
+[00:19:10.234] Browser WARN    Invalid scope
+[00:19:10.234] Browser WARN    Invalid scope
+[00:19:10.234] Browser WARN    Invalid scope
+[00:19:10.234] Browser WARN    Invalid scope
+[00:19:10.234] Browser WARN    Invalid scope
+[00:19:10.234] Browser WARN    Invalid scope
+[00:19:10.234] Browser WARN    Invalid scope
+[00:19:10.234] Browser WARN    Invalid scope
+[00:19:10.234] Browser WARN    Invalid scope
+[00:19:10.234] Browser WARN    Invalid scope
+[00:19:10.234] Browser WARN    Invalid scope
+[00:19:10.234] Browser WARN    Invalid scope
+[00:19:10.234] Browser WARN    Invalid scope
+[00:19:10.234] Browser WARN    Invalid scope
+[00:19:10.234] Browser WARN    Invalid scope
+[00:19:10.234] Browser WARN    Invalid scope
+[00:19:10.234] Browser WARN    Invalid scope
+[00:19:10.234] Browser WARN    Invalid scope
+[00:19:10.234] Browser WARN    Invalid scope
+[00:19:10.234] Browser WARN    Invalid scope
+[00:19:10.234] Browser WARN    GSAP target .bg-grid not found. https://gsap.com

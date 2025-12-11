@@ -1,0 +1,29 @@
+# ------------------ Builder Stage ------------------
+FROM node:18-alpine AS builder
+WORKDIR /app
+
+# Copy package.json & lockfile
+COPY package.json pnpm-lock.yaml ./
+
+# Install dependencies
+RUN npm install -g pnpm
+RUN pnpm install --frozen-lockfile
+
+# Copy source code & build
+COPY . .
+RUN pnpm build
+
+# ------------------ Production Stage ------------------
+FROM node:18-alpine
+WORKDIR /app
+
+# Copy hasil build dan production node_modules
+COPY --from=builder /app/package.json ./ 
+COPY --from=builder /app/pnpm-lock.yaml ./ 
+COPY --from=builder /app/.next ./.next
+COPY --from=builder /app/node_modules ./node_modules
+COPY --from=builder /app/public ./public
+
+EXPOSE 3000
+ENV NODE_ENV=production
+CMD ["pnpm", "start"]
